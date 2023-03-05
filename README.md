@@ -1,2 +1,12 @@
-# ArtificialIntelligenceScrap
+# Artificial Intelligence Scrap
 인공지능 관련 자료 모음 (HW1)
+
+## 기본 AI 설명
+### AI: Artificial (인공) Intelligence (지능)
+인공지능(AI)기술 이해하기 (영상, Dec 28, 2022)
+* https://youtu.be/f_7biZYhvhI
+* (요약) 인공지능은 인간의 지능적인 행동을 모방하여 인시적 사고나 학습 등을 할 수 있는 기계를 만드는 과학 및 공학 분야입니다. 이 분야는 머신러닝과 딥러닝을 포함하고 있습니다. 인공지능은 다양한 분야에서 혁신을 이루고 있으며, 자율주행 자동차, 무인 드론, 로봇, 챗봇 등 다양한 분야에서 활용됩니다. 이 영상은 인공지능 기술에 대한 기초적인 이해를 제공합니다.
+
+What's the Difference Between AI, Machine Learning, and Deep Learning? (ML vs DL vs AI) (영상, Aug 18, 2021)
+* https://youtu.be/EMMkLEXN09I
+* (요악) 머신 러닝은 기계가 스스로 학습하는 알고리즘이며, 딥 러닝은 머신 러닝의 한 종류로 인공 신경망을 사용하는 학습 방법이다. 인공지능은 머신 러닝과 딥 러닝을 포함한 보다 포괄적인 개념이다. 머신 러닝과 딥 러닝은 주어진 데이터를 가지고 훈련하면서 성능을 높이는 것이 가능하다. 예를 들어 유튜브의 추천 영상은 사용자들의 시청 기록을 분석하여 비슷한 관심사를 가진 영상을 추천하는 것이다.
