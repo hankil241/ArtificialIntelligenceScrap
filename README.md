@@ -1,5 +1,6 @@
 # Artificial Intelligence Scrap
 인공지능 관련 자료 모음 (HW1)
+22000436 오한길
 
 ## 기본 AI 설명
 ### AI: Artificial (인공) Intelligence (지능)
