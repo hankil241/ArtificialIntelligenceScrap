@@ -20,3 +20,8 @@ What's the Difference Between AI, Machine Learning, and Deep Learning? (ML vs DL
 [Top 5] Type 5 of A.I. in Movies (영화 속 AI 인공지능 5종) (영상, Fed 24, 2023)
 * https://youtu.be/yJByywNRpjg
 * (요약) 이 영상에서 5개의 대표 AI 종을 소개 하고있습니다. 대화형 (Conversaational), 단순형 로봇 (Simple Robot), 로보트형 (Robotic), 인간형 로봇 (Humanoid Robot), 인조인간 로봇 (Human Robot) 의 개념들을 5개의 영화를 통해 우리에게 보여줍니다. 영와속 AI이다 보니, 픽션널한 부분도 많지만, 그만큼 AI의 가능성을 보여주고있습니다.
+
+## AI in Metaverse
+[AI+메타버스] 전문가 3인이 꼽은 메타버스 핵심 기술? "AI가 메타버스 진화" (기사, Sep 5, 2022)
+* https://www.ajunews.com/view/20220905150554634
+* (요약) 메타버스에 대한 표준 정의와 필수 기술에 대해서는 아직 논의가 이뤄지고 있으나, 전문가들은 각종 기술이 융합된 플랫폼이라는 점에는 의견을 모은다. 특히 인공지능(AI)은 메타버스 내 콘텐츠 생성과 사용자가 메타버스 내에서 각종 서비스를 불편함 없이 이용할 수 있도록 해주는 주요 기술로 꼽힌다. 네이버, 엔씨소프트, KT 등 ICT 업계 관계자가 참석한 KAIST 메타버스 융합대학원 개원식에서는 네이버 초거대 AI가 메타버스에서 뇌 역할을 할 수 있으며, 강력한 콘텐츠 생산도구로도 활용할 수 있다는 설명이 있었다. 초거대 AI는 특정 주제에 대해 고등학생 수준의 자연스러운 작문이 가능하며, 단어와 문장만으로 사람이 공감할 수 있는 그림을 생성하기도 한다.
